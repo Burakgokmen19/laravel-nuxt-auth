@@ -8,7 +8,7 @@
     </h2>
     <h3 class="subtitle is-6 has-text-grey">
       Author: <a href="https://github.com/Burakgokmen19">
-      Burak Gökmen
+      Burak Gökmenn
       </a>
     </h3>
   </section>
